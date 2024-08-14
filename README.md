@@ -30,9 +30,8 @@ Zomato-Project/
 ├── data/                       # Raw and processed data files
 ├── scripts/                    # SQL scripts used for data queries and processing
 ├── visualizations/             # Tableau and Power BI dashboards and other visualizations
-├── insight/                    # Insight related to the Data
-├── README.md                   # Project documentation
-└── zomato_analysis.xlsx        # Main analysis file
+├── insight/                    # Insight related to the Data(Main analysis file)
+└──  README.md                  # Project documentation
 ```
 
 ## Key Analysis and Findings
